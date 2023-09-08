@@ -1,0 +1,190 @@
+#d_with_the_top_elements {
+  display: flex;
+  position: fixed;
+  top: 0px;
+  background-color: white;
+  z-index: 1;
+}
+
+#d_with_the_logo {
+  margin-left: 20px;
+}
+
+a {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+#d_with_the_anchors {
+  margin-top: 15px;
+}
+
+#d_with_top_button {
+  margin-top: 10px;
+  margin-left: 15px;
+}
+
+#top_button {
+  color: white;
+  background-color: #B9770E;
+  font-weight: bold;
+  width: 120px;
+  height: 30px;
+  border-radius: 5px;
+}
+
+#i1 {
+  margin-top: 50px;
+}
+
+#flex2 {
+  display: flex;
+  position: relative;
+  top: -150px;
+
+}
+
+.component {
+  width: 260px;
+  color: white;
+  margin-left: 20px;
+}
+
+#i2 {
+  background-color: white;
+}
+
+#d2 {
+  text-align: center;
+  margin-top: -150px;
+}
+
+#ol {
+  display: flex;
+  flex-direction: column;
+  background-color: #CDC3B4;
+
+}
+
+.ole {
+  font-size: 25px;
+  margin-left: 20px;
+  padding: 20px;
+}
+
+#ml {
+  display: flex;
+  flex-direction: column;
+  background-color: #BEB4A4;
+  position: relative;
+  top: -415px;
+  left: 360px;
+}
+
+
+.mle {
+  margin-left: 20px;
+  padding: 6px;
+}
+
+#mlot {
+  margin-left: 20px;
+  padding: 5px;
+  margin-top: 50px;
+
+}
+
+#mlob {
+  margin-left: 20px;
+  padding: 5px;
+  margin-bottom: 50px;
+}
+
+#imagee {
+  position: relative;
+  top: -820px;
+}
+
+#d3 {
+  text-align: center;
+  margin-top: -420px;
+}
+
+.bd {
+  color: white;
+  background-color: #B9770E;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-left: 80px;
+}
+
+.d4 {
+  display: flex;
+  flex-direction: row;
+  margin-left: 100px;
+  margin-right: 100px;
+}
+
+
+.sh {
+  background-color: #CDC3B4;
+  margin: 5px;
+}
+
+
+.shh {
+  background-color: #CDC3B4;
+  margin: 5px;
+}
+
+.bdd {
+  color: white;
+  background-color: #B9770E;
+  font-weight: bold;
+  border-radius: 5px;
+  margin-left: 100px;
+}
+
+
+#bf {
+  display: flex;
+  flex-direction: row;
+}
+
+#sf {
+  display: flex;
+  flex-direction: column;
+}
+
+#b3 {
+  display: flex;
+  flex-direction: row;
+}
+
+#md {
+  margin-left: 150px;
+}
+
+
+img:hover {
+  opacity: 0.7;
+}
+
+
+a:hover {
+  text-decoration: underline;
+  color: #60288C;
+}
+
+.anotherflex {
+  display: flex;
+  flex-direction: row;
+}
+
+.eqf {
+  background-color: #D7D4DA;
+  margin-left: 3px;
+  width: 325px;
+  height: 200px;
+
+}
